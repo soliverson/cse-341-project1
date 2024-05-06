@@ -51,17 +51,20 @@
             "schema": {
               "type": "object",
               "properties": {
+                "firstName": {
+                  "example": "any"
+                },
+                "lastName": {
+                  "example": "any"
+                },
                 "email": {
                   "example": "any"
                 },
-                "username": {
+                "favoriteColor": {
                   "example": "any"
                 },
-                "name": {
-                  "example": "any"
-                },
-                "ipaddress": {
-                  "example": "any"
+                "birthday": {
+                "example": "any"
                 }
               }
             }
